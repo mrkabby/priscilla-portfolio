@@ -58,7 +58,7 @@ export default function Home() {
           About Me
         </motion.h2>
         <p className="max-w-2xl mx-auto text-lg">
-          Brief bio about your work and expertise.
+        Fashion Model | Natural Hair Enthusiast | CSR 
         </p>
       </section>
 
@@ -128,7 +128,7 @@ export default function Home() {
         </p>
         <div className="flex justify-center space-x-6 text-3xl">
           <a
-            href="https://www.instagram.com/yourusername"
+            href="https://www.instagram.com/p.boatemaa.antwi/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-400"
@@ -136,7 +136,7 @@ export default function Home() {
             <FaInstagram />
           </a>
           <a
-            href="https://wa.me/yourwhatsappnumber"
+            href="https://wa.me/+233544559149"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-400"
@@ -144,13 +144,13 @@ export default function Home() {
             <FaWhatsapp />
           </a>
           <a
-            href="mailto:youremail@example.com"
+            href="mailto:priscybella198@gmail.com"
             className="hover:text-gray-400"
           >
             <FaEnvelope />
           </a>
           <a
-            href="https://www.tiktok.com/@yourusername"
+            href="https://www.tiktok.com/@priscyboat_"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-400"
